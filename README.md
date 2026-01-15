@@ -32,3 +32,20 @@ Grey-Wolf-Optimizer-Python/
 ├── main.py             # Le code source complet (Algorithme + Visualisation)
 ├── requirements.txt    # Liste des librairies nécessaires
 └── README.md           # Documentation du projet
+```
+
+## 🚀 Utilisation
+
+### Résultat attendu
+
+Le script va afficher la progression de la "chasse" dans le terminal :
+
+```text
+🚀 Démarrage de GWO sur 2 dimensions...
+Iteration 0: Best Fitness = 154.23
+...
+Iteration 50: Best Fitness = 0.00004
+✅ Optimisation terminée.
+```
+![Courbes de Convergence et Position Finale](gwo_resultats.png)
+
